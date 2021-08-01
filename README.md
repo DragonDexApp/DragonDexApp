@@ -1,1 +1,1 @@
-# Dragon Dex Liquidity Protocol
+# Dragon Dex Foundation
