@@ -1,7 +1,4 @@
-# 1inch Liquidity Protocol
-
-[![Build Status](https://github.com/1inch/liquidity-protocol/workflows/CI/badge.svg)](https://github.com/1inch/liquidity-protocol/actions)
-[![Coverage Status](https://coveralls.io/repos/github/1inch/liquidity-protocol/badge.svg?branch=master)](https://coveralls.io/github/1inch/liquidity-protocol?branch=master)
+# Dragon Dex Liquidity Protocol
 
 AMM with a beautiful mind
 
